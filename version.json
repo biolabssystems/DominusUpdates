@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 2.0,
   "url": "https://cdn.jsdelivr.net/gh/biolabssystems/DominusUpdates@main/firmware.bin",
   "changelog": "Primera actualización exitosa via OTA"
 }
