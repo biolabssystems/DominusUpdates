@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "url": "https://github.com/biolabssystems/DominusUpdates/releases/download/v2.0/firmware.bin",
+  "url": "https://github.com/biolabssystems/DominusUpdates/raw/refs/heads/main/firmware.bin",
   "changelog": "Primera actualización exitosa via OTA"
 }
